@@ -26,8 +26,8 @@ This is a simple application that consumes a public api using a HTTP Client Libr
     
   ### Testing the api
     On your shell, run the command 
-    (env)~$curl curl -i http://127.0.0.1:5000/bucketlist/api/v1.0/bucketlists/
-    (env)~$curl curl -i http://127.0.0.1:5000/bucketlist/api/v1.0/bucketlists/00000000
+    (env)~$curl -i http://127.0.0.1:5000/bucketlist/api/v1.0/bucketlists/
+    (env)~$curl -i http://127.0.0.1:5000/bucketlist/api/v1.0/bucketlists/00000000
 
     
   ### Running tests
